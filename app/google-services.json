@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897746696777",
+    "project_id": "security-automation-test",
+    "storage_bucket": "security-automation-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897746696777:android:136b41067c61cb21b6dd98",
+        "android_client_info": {
+          "package_name": "com.deimoshall.securityautomationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897746696777-hm7m1h2mkd2f4nartdk2lp1kt7j66h74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiGu71j2mKUMr47BZRzqH4KV-AvH1-d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897746696777-hm7m1h2mkd2f4nartdk2lp1kt7j66h74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
